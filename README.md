@@ -20,7 +20,9 @@ Starting with an incomplete board:
 
 ## Requirements
 
-[installing pygame](https://www.pygame.org/wiki/GettingStarted)
+To install [pygame](https://www.pygame.org/wiki/GettingStarted)\
+or
+> python3 -m pip install pygame==2.0.0.dev6
 
 ## Instructions
 
