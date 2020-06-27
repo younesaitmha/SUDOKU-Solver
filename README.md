@@ -10,7 +10,7 @@ Backtracking is a general algorithm for finding all (or some) solutions to some 
 
 Starting with an incomplete board:
 
-* Find some empty space
+* Find the first empty space if it exist
 * Attempt to place the digits 1-9 in that space
 * Check if that digit is valid in the current spot based on the current board
 * attempt the board with backtrack
@@ -18,11 +18,20 @@ Starting with an incomplete board:
   + If it is not valid, reset the square you just filled and go back to the previous step.
 * Once the board is full by the definition of this algorithm we have found a solution.
 
-## requirements
+## Requirements
 
 installing pygame
 > pip install pygame
 
+## Instructions
+
+* Choose the level
+* Click a box and hit the number on your keybaord to pencil in a number.
+* To confirm that value press the ENTER key on that box.
+* To delete a pencil in, you can click DEL.
+* To solve the board press SPACE.
+
 ## Reference
 
 [freecodecamp](https://www.freecodecamp.org/news/lets-backtrack-and-save-some-queens-1f9ef6af5415/)
+[Pygame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w)
