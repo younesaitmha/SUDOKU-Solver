@@ -20,8 +20,7 @@ Starting with an incomplete board:
 
 ## Requirements
 
-installing pygame
-> pip install pygame
+[installing pygame](https://www.pygame.org/wiki/GettingStarted)
 
 ## Instructions
 
@@ -33,5 +32,5 @@ installing pygame
 
 ## Reference
 
-[freecodecamp](https://www.freecodecamp.org/news/lets-backtrack-and-save-some-queens-1f9ef6af5415/)
-[Pygame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+* [freecodecamp](https://www.freecodecamp.org/news/lets-backtrack-and-save-some-queens-1f9ef6af5415/)
+* [Pygame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w)
